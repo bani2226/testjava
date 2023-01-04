@@ -7,6 +7,7 @@ public class testjava1 {
 		System.out.print("hello");
 		System.out.print("hello");
 		System.out.print("hello");
+		System.out.print("hello");
 	}
 
 }
